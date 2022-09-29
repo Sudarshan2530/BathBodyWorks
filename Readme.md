@@ -20,6 +20,23 @@ you will be redirected to payment page. By filling all the details your item wil
  <h3>Landing page: </h3>
  
  ![Screenshot](BathandBodyWorksImages/CartPage.png)
+ 
+
+ <h3>Product page: </h3>
+ <img src="BathandBodyWorksImages/ShoppinPage.png" alt="Shooping page"/>
+ 
+  <h3>Login/Signup page: </h3>
+ <img src="BathandBodyWorksImages/Login-signup page.png" alt="Login page"/>
+
+  <h3>Cart page: </h3>
+ <img src="BathandBodyWorksImages/CartPage.png" alt="Cart page"/>
+ 
+ <h3>Checkout page: </h3>
+ <img src="BathandBodyWorksImages/Checkout Page.png" alt="checkout page"/>
+ 
+  <h3>Payment page: </h3>
+ <img src="BathandBodyWorksImages/PaymentPage.png" alt="Payment page"/>
+ 
 
  
  
